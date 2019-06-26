@@ -15,7 +15,7 @@ Jekyll is a Ruby program so you need to install Ruby on your machine to begin
 with. Head over to the [install guide](/docs/installation/) and follow the
 instructions for your operating system.
 
-With Ruby setup you can install Jekyll by running the following in your
+With Ruby now set up, you can install Jekyll by running the following in your
 terminal:
 
 ```
